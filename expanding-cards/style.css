@@ -7,23 +7,23 @@
 }
 
 .bg-img1 {
-  background-image: url("https://pixabay.com/get/gafe0b6ff9bf6d1a950d8b1caa36349a68e0caf36096a1e768fe8729b5a0d186f62bbc183937d4a2638cb33d5478666864456c4b1f9555110c14b1e75fccadfbb_1280.jpg");
+  background-image: url("../img/elephant.jpg");
 }
 
 .bg-img2 {
-  background-image: url("https://pixabay.com/get/g5d658311dcecadb66b1816f3000d559e3edf9f1eaf3ad4bb0befcda92fd8268434fedbb3f2c2a1930adbb4be617876c853dc52246c1961cc91468dfb2cd56195_1280.jpg");
+  background-image: url("../img/globe.jpg");
 }
 
 .bg-img3 {
-  background-image: url("https://pixabay.com/get/g0efe477f375cd042d4ab84414d8d444aa8538ed2b7f3c3f5ccf632cf547706436cb202ef8aa1ce7a222a6ef4e337dd9ec09eb4e5e30e2dbbb0cab8a0e141a6d3_1280.jpg");
+  background-image: url("../img/pregnant.jpg");
 }
 
 .bg-img4 {
-  background-image: url("https://pixabay.com/get/g4b026f5b7c5f83bd7bdbb87ef78f2b1402483583cd2b50bacf994dd40e33b4dd0e47be98a8524194d5a054276c19cf6a776e7ff86d6b22a6c1692b554dcd7f26_1280.jpg");
+  background-image: url("../img/zermatt.jpg");
 }
 
 .bg-img5 {
-  background-image: url("https://pixabay.com/get/gbb3902ffe18c64b4dbf047218a5a7a7711298a8b74af4ad23cffde6b5f0a31d44db1ffcec112441ade6bcf31222ac2a5139d4020a5e9df051b0770959ae2136c_1280.jpg");
+  background-image: url("../img/switzerland.jpg");
 }
 
 body {
